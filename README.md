@@ -1,7 +1,7 @@
 # Devbhoomi_hackathon
 This repo contains the code for speed detection, number plate detection, the honking system and the challan system
 Hello everone, I am Sovit Patel currently an EI undergrad from NIT Rourkela. I participated in in Devbhoomi Cyber Hackathon 2.0 conducted by Uttarakhand Police at IIT Roorkee.
-Out of 20 problem statements we chose the 16th PS which has the theme of Road safety.
+Out of 20 problem statements we chose the 16th PS which has the theme of Road safety.Here we secured 2nd position out of 40 finalist teams from all over the country.
 
 Problem Statement: 16 (Road Safety)
 PS (Prelims): Smart Pillars or sensors which may use Radio waves to measure the speed of upcoming vehicle and generate the centralised data for over speeding of vehicles. Can be used to for automatic Challan for violation. Must develop 04 such pillars for problem extension in the main round.
